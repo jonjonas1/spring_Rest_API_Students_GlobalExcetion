@@ -1,0 +1,4 @@
+API design process
+1. review API requirements/docs (create rest api for CRM system like UI students database)
+2. identify main resources / entity (who uses our apps "customer")
+3. use http methods to assign action on resources
